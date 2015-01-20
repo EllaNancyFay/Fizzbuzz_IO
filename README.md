@@ -1,4 +1,4 @@
-Fizzbuzz
+Fizzbuzz IO
 ==================
 
 ###Creating a simple Fizzbuzz Kata in IO
@@ -19,3 +19,4 @@ Fizzbuzz created in other languages:
   - [Fizzbuzz JavaScript](https://github.com/EllaNancyFay/Fizzbuzz_JS)
   - [Fizzbuzz CoffeeScript] (https://github.com/EllaNancyFay/fizzbuzzCoffeeScript)
   - [Fizzbuzz Java] (https://github.com/EllaNancyFay/FizzBuzzJava)
+
